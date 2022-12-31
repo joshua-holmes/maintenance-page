@@ -9,3 +9,10 @@ To use, download the `index.html` and `styles.css` files, then have the server s
 For a live demo, [visit this link](https://joshua-holmes.github.io/maintenance-page/).
 
 ![Maintenance Page demo gif](./page-under-maintenance.gif)
+
+## Made by
+Joshua Holmes<br/>
+[jpholmes.com](https://www.jpholmes.com)<br/>
+[linkedin.com/in/joshua-phillip-holmes](https://www.linkedin.com/in/joshua-phillip-holmes/)<br/>
+[github.com/joshua-holmes](https://github.com/joshua-holmes)<br/>
+[joshua.phillip.holmes@gmail.com](mailto:joshua.phillip.holmes@gmail.com)
